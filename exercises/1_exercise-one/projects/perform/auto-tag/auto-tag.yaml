@@ -1,1 +1,5 @@
-placeholder
+config:
+    - tag-owner: "auto-tag.json"
+  
+tag-owner:
+    - name: "Owner"
